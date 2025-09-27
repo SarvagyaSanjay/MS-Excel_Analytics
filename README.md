@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 Example Visuals (Mermaid)
+## 📊 Visuals
 
 ### Top 5 Products (sample distribution)
 ```mermaid
