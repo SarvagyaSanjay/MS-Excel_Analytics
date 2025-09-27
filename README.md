@@ -1,8 +1,6 @@
 # 🚀 Automated Business Inventory Dashboard
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Demo GIF](https://img.shields.io/badge/demo-video-online-orange.svg)](#demo)
-[![Issues](https://img.shields.io/github/issues/your-username/your-repo)](https://github.com/your-username/your-repo/issues)
+<img width="1294" height="641" alt="image" src="https://github.com/user-attachments/assets/19d3c32e-72f0-4f84-a4fb-b6ef7e121480" />
 
 > **Short project summary:** Built an Excel-based, fully automated inventory dashboard that manages customers, vendors, products, purchases and sales — with real-time stock tracking, profit/loss reporting, and low-stock notifications. 📊✅
 
@@ -17,13 +15,6 @@
 - 🧩 Clean, structured sheets: `Customers`, `Vendors`, `Products`, `Purchases`, `Sales`, `Inventory`, `Dashboard`  
 - 📥 Demo file & step-by-step build tutorial included
 
----
-
-## 🖼 Demo
-
-> Replace the placeholder with an actual GIF or screenshot showing the dashboard in action.
-
-![Demo GIF - placeholder](./assets/demo.gif)
 
 ---
 
@@ -33,8 +24,8 @@
 ```mermaid
 pie
     title Top 5 Products by Sales (sample)
-    "Product A": 30
-    "Product B": 25
-    "Product C": 20
-    "Product D": 15
-    "Product E": 10
+    "Dekstop": 65
+    "Speakers": 52
+    "Headphones": 42
+    "Keyboard": 37
+    "Laptop":14
