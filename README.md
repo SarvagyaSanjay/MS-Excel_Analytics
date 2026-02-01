@@ -1,4 +1,4 @@
-# 🚀 Automated Business Inventory Dashboard
+# 🚀 Business Inventory Dashboard
 
 <img width="1294" height="641" alt="image" src="https://github.com/user-attachments/assets/19d3c32e-72f0-4f84-a4fb-b6ef7e121480" />
 
