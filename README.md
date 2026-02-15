@@ -2,7 +2,7 @@
 
 <img width="1294" height="641" alt="image" src="https://github.com/user-attachments/assets/19d3c32e-72f0-4f84-a4fb-b6ef7e121480" />
 
-> **Short project summary:** Built an Excel-based, fully automated inventory dashboard that manages customers, vendors, products, purchases and sales — with real-time stock tracking, profit/loss reporting, and low-stock notifications. 📊✅
+> **Short project summary:** Built an Excel-based, inventory dashboard that manages customers, vendors, products, purchases and sales — with real-time stock tracking, profit/loss reporting, and low-stock notifications. 📊✅
 
 ---
 
